@@ -1,0 +1,15 @@
+/Users/alexanderblack/RiderProjects/DasBootCoin/bin/Debug/netcoreapp3.1/DasBootCoin.deps.json
+/Users/alexanderblack/RiderProjects/DasBootCoin/bin/Debug/netcoreapp3.1/DasBootCoin.runtimeconfig.json
+/Users/alexanderblack/RiderProjects/DasBootCoin/bin/Debug/netcoreapp3.1/DasBootCoin.runtimeconfig.dev.json
+/Users/alexanderblack/RiderProjects/DasBootCoin/bin/Debug/netcoreapp3.1/DasBootCoin.dll
+/Users/alexanderblack/RiderProjects/DasBootCoin/bin/Debug/netcoreapp3.1/DasBootCoin.pdb
+/Users/alexanderblack/RiderProjects/DasBootCoin/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/alexanderblack/RiderProjects/DasBootCoin/obj/Debug/netcoreapp3.1/DasBootCoin.csprojAssemblyReference.cache
+/Users/alexanderblack/RiderProjects/DasBootCoin/obj/Debug/netcoreapp3.1/DasBootCoin.AssemblyInfoInputs.cache
+/Users/alexanderblack/RiderProjects/DasBootCoin/obj/Debug/netcoreapp3.1/DasBootCoin.AssemblyInfo.cs
+/Users/alexanderblack/RiderProjects/DasBootCoin/obj/Debug/netcoreapp3.1/DasBootCoin.csproj.CoreCompileInputs.cache
+/Users/alexanderblack/RiderProjects/DasBootCoin/obj/Debug/netcoreapp3.1/DasBootCoin.csproj.CopyComplete
+/Users/alexanderblack/RiderProjects/DasBootCoin/obj/Debug/netcoreapp3.1/DasBootCoin.dll
+/Users/alexanderblack/RiderProjects/DasBootCoin/obj/Debug/netcoreapp3.1/DasBootCoin.pdb
+/Users/alexanderblack/RiderProjects/DasBootCoin/obj/Debug/netcoreapp3.1/DasBootCoin.genruntimeconfig.cache
+/Users/alexanderblack/RiderProjects/DasBootCoin/bin/Debug/netcoreapp3.1/StarkbankEcdsa.dll
